@@ -73,6 +73,7 @@
                             <configuration>
                                 <goals>install</goals>
                                 <scmConnection>project.scm.connection</scmConnection>
+                                <tag>project.scm.tag</tag>
                             </configuration>
                         </execution>
                     </executions>

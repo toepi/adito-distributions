@@ -18,6 +18,7 @@
     
     <properties>
         <project.scm.connection>scm:git:git://github.com/toepi/adito.git</project.scm.connection>
+        <project.scm.tag>HEAD</project.scm.tag>
     </properties>
     
     <build>
