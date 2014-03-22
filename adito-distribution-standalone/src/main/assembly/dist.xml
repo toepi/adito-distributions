@@ -83,7 +83,8 @@
                 <exclude>com.adito:adito-boot</exclude>
                 <exclude>*:*:zip:*</exclude>
             </excludes>
-            <useTransitiveDependencies>false</useTransitiveDependencies>
+            <useTransitiveDependencies>true</useTransitiveDependencies>
+            <useTransitiveFiltering>true</useTransitiveFiltering>
             <outputDirectory>lib</outputDirectory>
             <outputFileNameMapping>${artifact.artifactId}.${artifact.extension}</outputFileNameMapping>
         </dependencySet>
