@@ -1,0 +1,10 @@
+/adito-distribution-standalone/target/
+/core/target/
+/base/target/
+/extensions/adito-applications/target/
+/extensions/adito-auth-activedirectory/target/
+/extensions/adito-network-places/target/
+/extensions/adito-agent/target/
+/extensions/adito-tunnels/target/
+/extensions/adito-auth-unix/target/
+/extensions/adito-web-forwards/target/
