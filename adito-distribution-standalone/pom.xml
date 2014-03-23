@@ -88,6 +88,13 @@
             <type>zip</type>
         </dependency>
 
+        <dependency>
+            <groupId>com.adito.extension</groupId>
+            <artifactId>adito-application-rdp</artifactId>
+            <version>3.0.2-SNAPSHOT</version>
+            <type>zip</type>
+        </dependency>
+
         <!-- need for this distribution type only -->
         <dependency>
             <groupId>ant-contrib</groupId>

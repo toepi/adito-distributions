@@ -53,6 +53,12 @@
             <artifactId>adito-auth-unix</artifactId>
             <version>${project.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>adito-application-rdp</artifactId>
+            <version>${project.version}</version>
+        </dependency>
         
     </dependencies>
 </project>

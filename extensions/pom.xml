@@ -38,6 +38,8 @@
         
         <module>adito-auth-activedirectory</module>
         <module>adito-auth-unix</module>
+
+        <module>adito-application-rdp</module>
         
         <module>dependency</module>
     </modules>
